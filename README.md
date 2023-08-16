@@ -21,14 +21,14 @@ Marquee Image Slider is a lightweight and customizable image slider library for 
 
 1. Include the Marquee Image Slider CSS and JavaScript files in your HTML:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="path/to/marquee-slider.css">
    <script src="path/to/marquee-slider.js"></script>
    ```
 
 2. Create an HTML element to hold the slider:
 
-   ```html
+   ```HTML
    <div class="marquee-slider">
        <!-- Your slide images will go here -->
    </div>
@@ -50,8 +50,8 @@ Marquee Image Slider is a lightweight and customizable image slider library for 
 - `transition`: The type of transition effect (e.g., fade, slide, zoom).
 - `autoplay`: Enable or disable auto-play mode.
 - `autoplayInterval`: The interval between slide transitions in auto-play mode.
-- `showThumbnails`: Display thumbnail navigation below the slider.
-- `thumbnailSize`: The size of the thumbnail images.
+- `show thumbnails`: Display thumbnail navigation below the slider.
+- `thumbnail size`: The size of the thumbnail images.
 - ... (additional customization options)
 
 ## Example
