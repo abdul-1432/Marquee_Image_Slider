@@ -74,7 +74,7 @@ const slider = new MarqueeImageSlider('.marquee-slider', {
 
 ## Contributions
 
-Contributions are welcome! If you find a bug or have suggestions for improvements, please submit an issue or a pull request to the [GitHub repository](https://github.com/yourusername/marquee-image-slider).
+Contributions are welcome! If you find a bug or have suggestions for improvements, please submit an issue or a pull request to the [GitHub repository](https://github.com/abdul-1432/Marquee_Image_Slider).
 
 ## License
 
