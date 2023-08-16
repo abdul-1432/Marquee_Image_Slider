@@ -50,7 +50,7 @@ Marquee Image Slider is a lightweight and customizable image slider library for 
 - `transition`: The type of transition effect (e.g., fade, slide, zoom).
 - `autoplay`: Enable or disable auto-play mode.
 - `autoplayInterval`: The interval between slide transitions in auto-play mode.
-- `show thumbnails`: Display thumbnail navigation below the slider.
+- `Show thumbnails`: Display thumbnail navigation below the slider.
 - `thumbnail size`: The size of the thumbnail images.
 - ... (additional customization options)
 
@@ -66,9 +66,9 @@ const slider = new MarqueeImageSlider('.marquee-slider', {
     ],
     transition: 'slide',
     autoplay: true,
-    autoplayInterval: 5000,
-    showThumbnails: true,
-    thumbnailSize: 80
+    autoplay interval: 5000,
+    show thumbnails: true,
+    thumbnails: 80
 });
 ```
 
@@ -82,4 +82,4 @@ Marquee Image Slider is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to use Marquee Image Slider to create stunning image sliders that engage your website visitors. We hope you enjoy using this library! If you have any questions or need assistance, please don't hesitate to contact us at (contact@example.com)[mailto:gafoor.mngr@gmail.com].
+Feel free to use Marquee Image Slider to create stunning image sliders that engage your website, visitors. We hope you enjoy using this library! If you have any questions or need assistance, please don't hesitate to contact us at (contact@example.com)[mailto:gafoor.mngr@gmail.com].
